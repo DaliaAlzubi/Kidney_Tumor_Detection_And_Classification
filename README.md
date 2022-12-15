@@ -6,5 +6,15 @@ Kidney Tumor (KT) is one of the diseases that have affected our society and is t
 
 ![The_Methodology222](https://user-images.githubusercontent.com/86482704/207753247-bd6088b8-b680-4a04-a9a0-a71d20c48538.png)
 
+
+Methodology Diagram.
+
+
 ![DETECTION11](https://user-images.githubusercontent.com/86482704/207753463-2adbd75f-6979-4840-b9b2-f32b944d47d2.png)
+
+Schematic representation of the CNN architecture of detection the kidney tumor.
+
+
 ![CLASS11](https://user-images.githubusercontent.com/86482704/207753479-ffd0e30d-3444-42f4-a7d0-f99ac5279971.png)
+
+Schematic representation of the CNN architecture of classification the kidney tumor type.
